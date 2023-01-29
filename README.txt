@@ -21,4 +21,4 @@ lpat：第一引数に指定した長さのパターン文字列を出力しま�
 lrotn（web版：https://lleki-wi.github.io/about_ueki/webtools/rotn）：第一引数に渡された文のアルファベット部分のみを第二引数に渡された値分シフトします
 
 非推奨コマンドです　動作はします
-lmorse（推奨版https://lleki-wi.github.io/about_ueki/webtools/morse_code_translator）：第一, 第二, 第三引数に渡された文字をそれぞれ短音, 長音, 区切り文字と解釈し、第一引数に渡された文をモールス信号からアルファベットにデコードします
+lmorse（推奨版（web）：https://lleki-wi.github.io/about_ueki/webtools/morse_code_translator）：第一, 第二, 第三引数に渡された文字をそれぞれ短音, 長音, 区切り文字と解釈し、第一引数に渡された文をモールス信号からアルファベットにデコードします
